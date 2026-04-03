@@ -52,6 +52,6 @@ The Max Sharpe result is a corner solution — ITC's combination of highest retu
 
 Optimization convergence across methods — Equal Weight Sharpe 0.160 → Monte Carlo best 0.464 → scipy optimum 0.5465 — quantifies what mathematical optimization adds over naive and random approaches.
 
-**Sample Image — Efficient Frontier: Monte Carlo Cloud + Optimal Portfolios**
+**Efficient Frontier: Monte Carlo Cloud + Optimal Portfolios**
 <img width="992" height="693" alt="Efficient Frontier — Monte Carlo Cloud + Optimal Portfolios" src="https://github.com/user-attachments/assets/5ad90a99-5213-4ead-b5e8-22f7db22ff45" />
 
