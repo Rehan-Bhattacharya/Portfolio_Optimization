@@ -22,9 +22,6 @@ pip install numpy pandas scipy plotly yfinance
 No API key or data files needed. yfinance pulls adjusted closing prices directly at runtime. To change the stock universe, edit the config at the top of the file:
 
 TICKERS  = ['RELIANCE.NS', 'TCS.NS', 'HDFCBANK.NS', 'INFY.NS', 'ITC.NS', 'WIPRO.NS']
-START_DATE     = '2021-01-01'
-END_DATE       = '2025-12-31'
-RISK_FREE_RATE = 0.06932
 
 Append .NS for NSE-listed stocks. Any Yahoo Finance ticker works.
 
